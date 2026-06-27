@@ -45,10 +45,10 @@ The code is written in Python and uses:
 - `matplotlib`
 - `networkx`
 
-The code has been prepared for Python 3.10 or later. No non-standard hardware
-is required. A normal desktop or laptop is sufficient for the demo. Full
-parameter sweeps are more expensive because the profile state space grows as
-`2^N`.
+The code has been prepared for Python 3.10 or later. The quick demo was tested
+with Python 3.12.13 on macOS. No non-standard hardware is required. A normal
+desktop or laptop is sufficient for the demo. Full parameter sweeps are more
+expensive because the profile state space grows as `2^N`.
 
 ## Installation
 
