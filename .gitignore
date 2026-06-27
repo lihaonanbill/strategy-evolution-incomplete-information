@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+*.pkl
+*.pickle
+cache_*.csv
+cache_*.pkl
+results/*.png
+results/*.pdf
+results/*.csv
+results/*.pkl
+
